@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&text=I%20am%20Jihxonx)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&text=I%20am%20Jihxonx)
