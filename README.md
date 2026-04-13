@@ -6,7 +6,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am an aspiring backend developer from South Korea.<br/>
+  #### :raising_hand: I am an aspiring backend developer.<br/>
   #### :gear: I am interested in backend development, APIs, databases, and scalable systems.<br/>
   #### :mortar_board: I majored in Software Engineering.<br/>
   #### :email: [git4ub0@gmail.com](mailto:git4ub0@gmail.com)
